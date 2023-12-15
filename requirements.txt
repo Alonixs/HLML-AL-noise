@@ -1,0 +1,4 @@
+scikit-activeml==0.4.1
+ipykernel==6.26.0
+torch==2.1.1
+skorch==0.15.0
